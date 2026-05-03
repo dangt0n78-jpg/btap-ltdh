@@ -1,0 +1,13 @@
+# Chặn tất cả thư mục Library ở bất cứ đâu
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]serSettings/
+
+# Chặn file của Visual Studio
+**/.vs/
+*.sln
+*.csproj
