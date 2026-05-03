@@ -49,7 +49,7 @@ MonoBehaviour:
   sunObject: {fileID: 0}
   moonObject: {fileID: 0}
   timeSlider: {fileID: 0}
-  timeOfDay: 11.2
+  timeOfDay: 13.1
 --- !u!1 &8145203500213086549
 GameObject:
   m_ObjectHideFlags: 0
