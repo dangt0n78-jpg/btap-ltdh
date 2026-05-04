@@ -1155,6 +1155,22 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5829640999591326290, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
+      propertyPath: m_Intensity
+      value: 536.77026
+      objectReference: {fileID: 0}
+    - target: {fileID: 5829640999591326290, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
+      propertyPath: m_ShadowAngle
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5829640999591326290, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
+      propertyPath: m_Shadows.m_Type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5829640999591326290, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
+      propertyPath: m_ColorTemperature
+      value: 20000
+      objectReference: {fileID: 0}
     - target: {fileID: 5984468333535840560, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -1216,8 +1232,48 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1617025516}
     - target: {fileID: 7631677413221651827, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
+      propertyPath: m_FlareSize
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631677413221651827, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
+      propertyPath: m_Intensity
+      value: 536.77026
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631677413221651827, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
+      propertyPath: m_LightDimmer
+      value: 7.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631677413221651827, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
+      propertyPath: m_FlareFalloff
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631677413221651827, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
+      propertyPath: m_SurfaceTexture
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631677413221651827, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
+      propertyPath: m_AngularDiameter
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631677413221651827, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
       propertyPath: m_VolumetricDimmer
       value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631677413221651827, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
+      propertyPath: m_UseRayTracedShadows
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631677413221651827, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
+      propertyPath: m_UseScreenSpaceShadows
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631677413221651827, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
+      propertyPath: m_ShadowResolution.m_Level
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7631677413221651827, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
+      propertyPath: m_ShadowResolution.m_UseOverride
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7645262999251395678, guid: 224a364203ae26c47ba1e180140a3a0c, type: 3}
       propertyPath: m_Name
