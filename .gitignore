@@ -7,7 +7,4 @@
 **/[Ll]ogs/
 **/[Uu]serSettings/
 
-# Chặn file của Visual Studio
-**/.vs/
-*.sln
-*.csproj
+
